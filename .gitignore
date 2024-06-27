@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/FirstRepo/v17/.wsuo
+/.vs
